@@ -4,10 +4,6 @@
  */
 package programmingtest;
 
-/**
- *
- * @author USER
- */
 public class ProgrammingTest {
 
     /**
